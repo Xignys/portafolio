@@ -2,3 +2,7 @@
     width: 35%;
     border-radius: 50%;
 }
+
+#message {
+    width: 150px;
+}
